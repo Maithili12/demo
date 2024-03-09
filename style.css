@@ -3,6 +3,9 @@ body{
     padding: 0;
     background: #000;
 }
+h1{
+    color:#ffffff;
+}
 .heart{
     position: absolute;
     top:50%;
